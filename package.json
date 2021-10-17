@@ -1,0 +1,24 @@
+{
+  "name": "node_latihan",
+  "version": "1.0.0",
+  "description": "latihan NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnySeven/node_rest_api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node.js"
+  ],
+  "author": "onyseven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnySeven/node_rest_api/issues"
+  },
+  "homepage": "https://github.com/OnySeven/node_rest_api#readme"
+}
